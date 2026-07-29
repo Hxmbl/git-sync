@@ -4,7 +4,7 @@ Install by:
 ```bash
 git clone https://github.com/Hxmbl/git-sync/
 cd git-sync
-go install . && cd .. && rm -r git-sync
+go install . && cd .. && rm -rf git-sync
 ```
 
 # Usage
