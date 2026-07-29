@@ -10,5 +10,5 @@ go install . && rm -r git-sync
 # Usage
 Just run it in ur projects dir
 
-#License
+# License
 U serious? No.
