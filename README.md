@@ -7,6 +7,8 @@ cd git-sync
 go install . && cd .. && rm -rf git-sync
 ```
 
+It doesn't deserve a package manager
+
 # Usage
 Just run it in ur projects dir
 
