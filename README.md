@@ -1,0 +1,14 @@
+# Git Sync
+
+Install by:
+```bash
+git clone https://github.com/Hxmbl/git-sync/
+cd git-sync
+go install .
+```
+
+# Usage
+Just run it in ur projects dir
+
+#License
+U serious? No.
